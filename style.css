@@ -1,0 +1,36 @@
+h1{
+    color:blue;
+    font-size: medium;
+    font-style: italic;
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+
+p{
+    color: purple;
+    font-size: small;
+    font-style: oblique;
+    text-align: center;
+}
+
+h2{
+    color:purple;
+    font-size: medium;
+    font-style: italic;
+    text-align: center;
+}
+
+img{
+     border-image-slice: fill ;
+     width:90%;
+}
+
+nav{
+    position:fixed;
+    box-shadow: 30px;
+    background-color:rgb(141, 137, 137);
+    
+}
