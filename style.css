@@ -84,3 +84,10 @@ nav{
     border-radius: 0;
 
   }
+
+  .pictureofme {
+    position: absolute;
+    z-index:  4;
+    border:15px solid black;
+    left:10%;
+  }
